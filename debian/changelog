@@ -1,0 +1,24 @@
+golang-github-youpy-go-riff (1.1.0-2) UNRELEASED; urgency=medium
+
+  * update
+
+ -- Debian Go Packaging Team <team+pkg-go@tracker.debian.org>  Mon, 25 Jul 2022 13:23:49 +0800
+
+golang-github-youpy-go-riff (1.1.0-2) unstable; urgency=medium
+
+  [ Tan Feng ]
+  * UNRELEASED
+
+ -- caixiangrong <caixiangrong@uniontech.com>  Mon, 25 Jul 2022 13:22:42 +0800
+
+golang-github-youpy-go-riff (1.1.0-1) unstable; urgency=medium
+
+  * snipe init
+
+ -- Tan Feng <tanfeng@uniontech.com>  Tue, 21 Jun 2022 20:11:14 +0800
+
+golang-github-youpy-go-riff (1.0+git20131220-1) unstable; urgency=medium
+
+  * init.
+
+ -- Clay Stan <claystan97@gmail.com>  Tue, 11 Jan 2022 17:50:49 +0800
